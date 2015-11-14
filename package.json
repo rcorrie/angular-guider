@@ -1,0 +1,25 @@
+{
+  "name": "angular-guider",
+  "description": "Create interactive overlay guides for you Angular app with this tool suite.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rcorrie/angular-guider",
+  "author": {
+    "name": "ricardo corrie",
+    "url": "github.com/rcorrie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rcorrie/angular-guider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rcorrie/angular-guider/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/rcorrie/angular-guider/blob/master/LICENSE"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
